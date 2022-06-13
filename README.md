@@ -32,6 +32,7 @@ For Windows users, follow along with this video:
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/wkM_3VZT2Nw" frameborder="0" allowfullscreen></iframe>
 
+
 ## MacOS: Completing Assignments Code Along
 
 For Mac users, follow along with this video:
